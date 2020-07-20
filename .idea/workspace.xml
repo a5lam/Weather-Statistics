@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52fbc015-5729-4775-9657-54ab67e3cafc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Weather-Statistic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Weather-Statistic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="weather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -76,26 +80,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="619" height="197" key="GridCell.Tab.0.bottom" timestamp="1595203225655">
-      <screen x="0" y="23" width="1240" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom" timestamp="1595205558380">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="619" height="197" key="GridCell.Tab.0.bottom/0.23.1240.777@0.23.1240.777" timestamp="1595203225655" />
-    <state width="619" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595202920023" />
-    <state width="619" height="197" key="GridCell.Tab.0.center" timestamp="1595203225654">
-      <screen x="0" y="23" width="1240" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1595205558380" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center" timestamp="1595205558378">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="619" height="197" key="GridCell.Tab.0.center/0.23.1240.777@0.23.1240.777" timestamp="1595203225654" />
-    <state width="619" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595202920021" />
-    <state width="619" height="197" key="GridCell.Tab.0.left" timestamp="1595203225653">
-      <screen x="0" y="23" width="1240" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1595205558378" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left" timestamp="1595205558377">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="619" height="197" key="GridCell.Tab.0.left/0.23.1240.777@0.23.1240.777" timestamp="1595203225653" />
-    <state width="619" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595202920020" />
-    <state width="619" height="197" key="GridCell.Tab.0.right" timestamp="1595203225655">
-      <screen x="0" y="23" width="1240" height="777" />
+    <state width="1259" height="197" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1595205558377" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right" timestamp="1595205558379">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="619" height="197" key="GridCell.Tab.0.right/0.23.1240.777@0.23.1240.777" timestamp="1595203225655" />
-    <state width="619" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595202920022" />
+    <state width="1259" height="197" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1595205558379" />
+    <state x="260" y="55" key="SettingsEditor" timestamp="1595204705642">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="260" y="55" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1595204705642" />
     <state x="423" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595202620268">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
